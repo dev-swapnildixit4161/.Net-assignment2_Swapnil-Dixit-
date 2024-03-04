@@ -1,0 +1,14 @@
+/media/knoldus/Paras_Jain/assignment/stackoverflow/bin/Debug/net7.0/stackoverflow
+/media/knoldus/Paras_Jain/assignment/stackoverflow/bin/Debug/net7.0/stackoverflow.deps.json
+/media/knoldus/Paras_Jain/assignment/stackoverflow/bin/Debug/net7.0/stackoverflow.runtimeconfig.json
+/media/knoldus/Paras_Jain/assignment/stackoverflow/bin/Debug/net7.0/stackoverflow.dll
+/media/knoldus/Paras_Jain/assignment/stackoverflow/bin/Debug/net7.0/stackoverflow.pdb
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.GeneratedMSBuildEditorConfig.editorconfig
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.AssemblyInfoInputs.cache
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.AssemblyInfo.cs
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.csproj.CoreCompileInputs.cache
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.dll
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/refint/stackoverflow.dll
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.pdb
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/stackoverflow.genruntimeconfig.cache
+/media/knoldus/Paras_Jain/assignment/stackoverflow/obj/Debug/net7.0/ref/stackoverflow.dll

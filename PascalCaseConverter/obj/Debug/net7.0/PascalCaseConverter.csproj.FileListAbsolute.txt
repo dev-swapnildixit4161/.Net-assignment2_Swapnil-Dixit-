@@ -1,0 +1,14 @@
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/bin/Debug/net7.0/PascalCaseConverter
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/bin/Debug/net7.0/PascalCaseConverter.deps.json
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/bin/Debug/net7.0/PascalCaseConverter.runtimeconfig.json
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/bin/Debug/net7.0/PascalCaseConverter.dll
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/bin/Debug/net7.0/PascalCaseConverter.pdb
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.AssemblyInfoInputs.cache
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.AssemblyInfo.cs
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.csproj.CoreCompileInputs.cache
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.dll
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/refint/PascalCaseConverter.dll
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.pdb
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/PascalCaseConverter.genruntimeconfig.cache
+/media/knoldus/Paras_Jain/assignment/PascalCaseConverter/obj/Debug/net7.0/ref/PascalCaseConverter.dll
